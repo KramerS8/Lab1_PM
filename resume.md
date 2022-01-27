@@ -27,5 +27,3 @@ Boone, NC, USA
 - Pet Sitter :dog2: :cat2: :fish: :lizard:
 - Plant Specialist :seedling: :sunflower: :deciduous_tree:
 - Volunteer :fist_right: :fist_left:
-
--jemoji
