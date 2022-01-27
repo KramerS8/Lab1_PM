@@ -21,7 +21,7 @@ Boone, NC, USA
 
 
 ##### Work Experience
-- Cater/Server :woman_cook:
+- Cater/Server :woman_cook:👩‍🍳
 - Photo and Video Editor :camera: :movie_camera:
 - Artist :woman_artist: :art:
 - Pet Sitter :dog2: :cat2: :fish: :lizard:
